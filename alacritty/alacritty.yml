@@ -1,0 +1,20 @@
+fonts:
+  normal:
+    family: "JetBrainsMono Nerd Font"
+    size: 12
+  window:
+    opacity: 0.9
+
+  colors:
+    primary:
+      background: '0x3e2f1c'
+      foreground: '0xc0b2a0'
+    normal:
+      black: '0x1e1e2e'
+      red: '0xa94442'
+      green: '0x6a994e'
+      yellow: '0xf9e2af'
+      blue: '0xa0c4ff'
+      magenta: '0xdd99bb'
+      cyan: '0x9dd9d2'
+      white: '0xe6dacd'
